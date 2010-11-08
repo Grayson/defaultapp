@@ -6,7 +6,7 @@ Too often, I'm writing a script and would like to know or change the default app
 
 ## How to use defaultapp
 
-defaultapp was written to be as simple as possible.  For instance, to merely retrieve the default application for a url scheme, simply pass the scheme as the first argument (`defaultapp mailto`).  In order to set the default application, provide the scheme and the preferred application name (`default ftp Transmit`).  Thta's it.
+defaultapp was written to be as simple as possible.  For instance, to merely retrieve the default application for a url scheme, simply pass the scheme as the first argument (`defaultapp mailto`).  In order to set the default application, provide the scheme and the preferred application name (`defaultapp ftp Transmit`).  Thta's it.
 
 ## Compiling on 10.4-
 
